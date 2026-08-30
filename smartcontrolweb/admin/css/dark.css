@@ -1,0 +1,71 @@
+/* ============================================================
+   DARK MODE
+   ============================================================ */
+
+body.dark {
+    background: #0f172a;
+    color: #e2e8f0;
+}
+
+body.dark .topbar {
+    background: #1e293b;
+}
+
+body.dark .sidebar {
+    background: #1e293b;
+    border-color: #334155;
+}
+
+body.dark .sidebar a {
+    color: #cbd5e1;
+}
+
+body.dark .sidebar a:hover {
+    background: #334155;
+}
+
+body.dark .sidebar a.active {
+    background: #334155;
+    color: #38bdf8;
+}
+
+body.dark .content {
+    background: #1e293b;
+    border-color: #334155;
+}
+
+body.dark .mekan-card,
+body.dark .cihaz-card {
+    background: #1e293b;
+    border-color: #334155;
+    color: #e2e8f0;
+}
+
+body.dark .mekan-card:hover,
+body.dark .cihaz-card:hover {
+    border-color: #38bdf8;
+}
+
+body.dark .kanal-satir {
+    border-bottom-color: #334155;
+}
+
+body.dark .btn-acik {
+    background: #15803d;
+}
+
+body.dark .btn-kirmizi {
+    background: #b91c1c;
+}
+
+body.dark .kod {
+    color: #94a3b8;
+}
+
+body.dark .son-gorulme {
+    color: #94a3b8;
+}
+
+body.dark .kanal-aciklama {
+    color: #94a3b8;
+}
